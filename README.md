@@ -4,7 +4,7 @@
 </a>
 
 <p align="center">
-    chat.SDK is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications. Clock on the above image to launch the application.
+    chat.SDK is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications. Click on the above image to launch the application.
 </p>
 
 <br/>
